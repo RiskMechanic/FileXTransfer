@@ -1,0 +1,1 @@
+([('main', '/Users/jojo/Documents/sw/fileXtransfer/dist/main', 'EXECUTABLE')],)
