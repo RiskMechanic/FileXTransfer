@@ -1,0 +1,19 @@
+# Ambiente virtuale
+.venv/
+venv/
+
+# Cartelle di build PyInstaller
+build/
+dist/
+
+# File temporanei
+*.spec
+*.log
+__pycache__/
+*.pyc
+*.pyo
+*.pyd
+
+# File di sistema
+.DS_Store
+Thumbs.db
